@@ -110,7 +110,7 @@
 
 ## 📂 Project Structure
 
-Task-Manager-week7/<br>
+ecommerce-capstone-shop/<br>
 │── public/<br>
 │── src/<br>
 │   ├── components/ # Reusable UI components<br>
