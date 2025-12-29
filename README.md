@@ -26,7 +26,7 @@
 
 📸 **Preview:**  
 <p align="center">
-  <img src="screenshot.png" width="700" alt="E-Commerce App Preview"/>
+  <img src="Screenshot.png" width="700" alt="E-Commerce App Preview"/>
 </p>
 
 ---
