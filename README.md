@@ -110,19 +110,21 @@
 
 ## 📂 Project Structure
 
-ecommerce-capstone-shop/<br>
-│── public/<br>
-│── src/<br>
-│   ├── components/ # Reusable UI components<br>
-│   ├── pages/ # Page-level components<br>
-│   ├── contexts/ # Auth, Cart, Order contexts<br>
-│   ├── hooks/ # Custom hooks<br>
-│   ├── services/ # API services<br>
-│   ├── styles/ # Global styles<br>
-│   ├── App.js<br>
-│   ├── index.js<br>
-│   └── vercel.json # React Router rewrite config<br>
-│── README.md
+```bash
+ecommerce-capstone-shop/
+│── public/
+│── src/
+│   ├── components/ # Reusable UI components
+│   ├── pages/ # Page-level components
+│   ├── contexts/ # Auth, Cart, Order contexts
+│   ├── hooks/ # Custom hooks
+│   ├── services/ # API services
+│   ├── styles/ # Global styles
+│   ├── App.js
+│   ├── index.js
+│   └── vercel.json # React Router rewrite config
+└── README.md
+```
 
 ---
 
