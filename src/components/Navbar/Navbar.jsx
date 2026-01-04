@@ -144,8 +144,12 @@ const UserInfo = styled.span`
   cursor: pointer;
 
   @media (max-width: 768px) {
+<<<<<<< HEAD
+    display: none;
+=======
     font-size: 0.8rem;
     padding: 0.3rem 0.5rem;
+>>>>>>> 8a0ffeca3b3cf2ee9c5d1b9bd462f430ba6a8f4f
   }
 `;
 
