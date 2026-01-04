@@ -129,9 +129,7 @@ const CategorySelect = styled.select`
   }
 
   @media (max-width: 768px) {
-    font-size: 0.8rem;
-    width: 90px;
-    padding: 0.3rem 0.5rem;
+    display: none;
   }
 `;
 
